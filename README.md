@@ -1,2 +1,2 @@
-# Indonesia_choroplethMap
+# choroplethMap_Indonesia
 Choropleth map of Indonesia
